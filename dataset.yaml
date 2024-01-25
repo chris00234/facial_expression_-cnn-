@@ -1,0 +1,10 @@
+path: /Users/chris/Documents_local/178/facial_expressions/data # dataset root dir
+train: images
+val: images
+# test:  # test images (optional)
+nc: 3
+names: [ 
+0: neutral,
+1: happiness,
+2: anger
+]
